@@ -3,6 +3,7 @@ module.exports = {
     description: "Personal page of Laurent Labine",
     locale: "en",
     title: "Laurent Labine",
+    formspreeEndpoint: "https://formspree.io/f/mgeradey",
   },
   plugins: [
     {
