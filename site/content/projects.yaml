@@ -1,0 +1,32 @@
+- name: Arsty Personal Portfolio
+  url: https://laurentlabine.github.io/personal-portfolio-mate/
+  description: A Simple and easily setup portfolio implemented using Gatsby and Contentful CMS
+  status: live
+  tags:
+    - Node JS
+    - React
+    - Gatsby
+    - Headless CMS
+  icon: github
+  image: images/artsy-portfolio.jpg
+
+- name: Product Landing Page
+  url: https://laurentlabine.github.io/fcc-reswebdes-product-landing-page/
+  description: A basic HTML/CSS project to practice the basics.  Part of freeCodeCamp's portfolio
+  status: live
+  tags:
+    - HTML/CSS
+  icon: website
+  image: images/product-landing-page.jpg
+
+- name: Cosmic Drum Machine
+  url: https://laurentlabine.github.io/fcc-frontend-drum-machine/
+  description: A Node JS project implemented as part of freeCodeCamp's curriculum.
+  status: live
+  tags:
+    - Node JS
+    - React
+    - Material UI
+    - Styled Components
+  icon: website
+  image: images/cosmic-drum.jpg
