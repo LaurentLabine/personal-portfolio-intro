@@ -15,5 +15,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: `/personal-portfolio-intro`,
 }
