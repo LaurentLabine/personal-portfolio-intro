@@ -1,6 +1,6 @@
-- name: Learning TypeScript making a personal portfolio pr
+- name: Learning TypeScript making a personal portfolio project
   description: React and Typescript, Build a Portfolio Project (Udemy Course)
-  status: in progress
+  status: in Progress
   tags:
     - Node JS
     - Typescript
@@ -17,7 +17,7 @@
     - CSS
     - JavaScript
   icon: website
-  image:
+  image: images/Day_3_Rotating_Navigation.jpg
 
 - name: Building a custom Node JS eCommerce
   url: https://github.com/LaurentLabine/udemy_nodejs_shop
