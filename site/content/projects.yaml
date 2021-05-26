@@ -1,3 +1,37 @@
+- name: Learning TypeScript making a personal portfolio pr
+  description: React and Typescript, Build a Portfolio Project (Udemy Course)
+  status: in progress
+  tags:
+    - Node JS
+    - Typescript
+    - React
+  icon: github
+  image:
+
+- name: 50 CSS Challenges in 50 days.
+  url: https://github.com/LaurentLabine/udemy_50projectsin50days
+  description: A project part of Sharpening my HTML/CSS Skills with 50 Projects In 50 Days - HTML, CSS & JavaScript (Udemy Course)
+  status: in progress
+  tags:
+    - HTML
+    - CSS
+    - JavaScript
+  icon: website
+  image:
+
+- name: Building a custom Node JS eCommerce
+  url: https://github.com/LaurentLabine/udemy_nodejs_shop
+  description: A Project implemented as part of NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) (Udemy Course)
+  status: in progress
+  tags:
+    - Node.js
+    - GraphQL
+    - MongoDB
+    - MVC
+    - REST APIs
+  icon: website
+  image:
+
 - name: Arsty Personal Portfolio
   url: https://laurentlabine.github.io/personal-portfolio-mate/
   description: A Simple and easily setup portfolio implemented using Gatsby and Contentful CMS
