@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     description: "Personal page of Laurent Labine",
     locale: "en",
-    title: "Laurent Labine",
+    title: "Laurent's Personal Space",
     formspreeEndpoint: "https://formspree.io/f/mgeradey",
   },
   plugins: [
