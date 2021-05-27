@@ -1,4 +1,4 @@
-- name: Learning TypeScript making a personal portfolio project
+- name: Learning TypeScript making a customized personal portfolio project
   description: React and Typescript, Build a Portfolio Project (Udemy Course)
   status: in Progress
   tags:
@@ -53,7 +53,7 @@
   icon: website
   image: images/product-landing-page.jpg
 
-- name: Cosmic Drum Machine
+- name: Cosmic Drumset
   url: https://laurentlabine.github.io/fcc-frontend-drum-machine/
   description: A Node JS project implemented as part of freeCodeCamp's curriculum.
   status: live
@@ -64,3 +64,15 @@
     - Styled Components
   icon: website
   image: images/cosmic-drum.jpg
+
+- name: 25-5 Clock
+  url: https://laurentlabine.github.io/fcc-frontend-25-5-clock/
+  description: A Node JS project implemented as part of freeCodeCamp's curriculum.
+  status: live
+  tags:
+    - Node JS
+    - React
+    - Material UI
+    - Styled Components
+  icon: website
+  image: images/25-5-clock.jpg
