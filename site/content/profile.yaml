@@ -30,9 +30,9 @@
 
     Reach out and Let's do it!
   skills:
-    - JavaScript
-    - HTML / CSS
-    - Node JS
+    - Node.js
+    - Gatsby
+    - CMS
   tools:
     - React
     - Express
